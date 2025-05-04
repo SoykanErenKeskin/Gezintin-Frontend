@@ -1,11 +1,11 @@
-import Navbar from "../home_components/Navbar";
-import Hero from "../home_components/Hero";
-import Features from "../home_components/Features";
-import Description1 from "../home_components/description1";
-import Description2 from "../home_components/description2";
-import Comments from "../home_components/comments";
-import Footer from "../home_components/Footer";
-import Totop from "../home_components/toTop";
+import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
+import Features from "../components/Features";
+import Description1 from "../components/description1";
+import Description2 from "../components/description2";
+import Comments from "../components/comments";
+import Footer from "../components/Footer";
+import Totop from "../components/toTop";
 
 const home = () => {
   return (

@@ -1,6 +1,6 @@
-import Navbar from "../home_components/Navbar";
-import Footer from "../home_components/Footer";
-import Totop from "../home_components/toTop";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import Totop from "../components/toTop";
 import Faq from "./Faqui";
 
 const sss = () => {

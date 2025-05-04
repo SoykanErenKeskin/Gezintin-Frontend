@@ -1,6 +1,6 @@
 "use client";
-import Navbar from "../home_components/Navbar";
-import Footer from "../home_components/Footer";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 import { useState, useMemo } from "react";
 import venuesData from "../data/venues.json";
 import { ChevronUp, ChevronDown } from "lucide-react";

@@ -1,10 +1,10 @@
-import Navbar from "../home_components/Navbar";
-import Footer from "../home_components/Footer";
-import Totop from "../home_components/toTop";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import Totop from "../components/toTop";
 import Personalized from "./personalized";
 import Classic from "./classic";
 import Popular from "./popular";
-import Tabs from "../home_components/tabs";
+import Tabs from "../components/tabs";
 
 const page = () => {
   return (
