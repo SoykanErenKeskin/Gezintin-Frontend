@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Anıtkabir",
+    "photo": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB83-XXtcF11UfM64DKloZROKOyjuJK_KlBjVoTFggpwYTGlYx-rWyosJx94J8XiOQOaJEtkwE1Yx-V349I5h7GIFiqVg8kcjDXy5H4pqA-FVurg7puwRW7pQCTVuDKraaST3smXgg=s1360-w1360-h1020-rw",
+    "rating": 4.9,
+    "city": "Ankara",
+    "openTime": "09:30",
+    "closeTime": "19:15"
+  },
+  {
+    "id": 2,
+    "name": "Ankara Mekan 2",
+    "photo": "https://fastly.picsum.photos/id/756/200/200.jpg?hmac=-fG1ZTuVYfQwwG3YNud2RtcOvYGcI86kRjc1pVQvO6c",
+    "rating": 4,
+    "city": "Ankara",
+    "openTime": "08:00",
+    "closeTime": "17:00"
+  },
+  {
+    "id": 3,
+    "name": "Ankara Mekan 3",
+    "photo": "https://fastly.picsum.photos/id/223/200/200.jpg?hmac=CNNyWbBcEAJ7TPkTmEEwdGrLFEYkxpTeVwJ7U0LB30Y",
+    "rating": 3.5,
+    "city": "Ankara",
+    "openTime": "09:30",
+    "closeTime": "19:30"
+  },
+  {
+    "id": 4,
+    "name": "Ankara Mekan 4",
+    "photo": "https://fastly.picsum.photos/id/223/200/200.jpg?hmac=CNNyWbBcEAJ7TPkTmEEwdGrLFEYkxpTeVwJ7U0LB30Y",
+    "rating": 2.5,
+    "city": "Ankara",
+    "openTime": "10:00",
+    "closeTime": "16:45"
+  },
+  {
+    "id": 5,
+    "name": "Ankara Mekan 5",
+    "photo": "https://fastly.picsum.photos/id/440/200/200.jpg?hmac=KgupVeawJx9jCsstx3Ei3_HPctuUXH5wRAj9paxZ41U",
+    "rating": 1.5,
+    "city": "Ankara",
+    "openTime": "09:00",
+    "closeTime": "19:00"
+  },
+  {
+    "id": 6,
+    "name": "Ankara Mekan 6",
+    "photo": "https://fastly.picsum.photos/id/131/200/200.jpg?hmac=q40x2oH1ZEkSm4ghNQ71nzzO07pbbG7hmn4J4KEtG-8",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "11:45",
+    "closeTime": "22:00"
+  },
+  {
+    "id": 7,
+    "name": "Ankara Mekan 7",
+    "photo": "https://fastly.picsum.photos/id/423/200/200.jpg?hmac=fXwRSSVHFlYgq9MfObWaWCb_p9L6ysOWda9lLOtAWc0",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "11:45",
+    "closeTime": "18:45"
+  },
+  {
+    "id": 8,
+    "name": "Ankara Mekan 8",
+    "photo": "https://fastly.picsum.photos/id/222/200/200.jpg?hmac=GngU-e1fHxK6MMBinwEkzsh8sMkjssl_vp8G6vJrb8U",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "11:30",
+    "closeTime": "23:30"
+  },
+  {
+    "id": 9,
+    "name": "Ankara Mekan 9",
+    "photo": "/images/ankara9.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "09:15",
+    "closeTime": "16:15"
+  },
+  {
+    "id": 10,
+    "name": "Ankara Mekan 10",
+    "photo": "/images/ankara10.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "09:30",
+    "closeTime": "20:00"
+  },
+  {
+    "id": 11,
+    "name": "Ankara Mekan 11",
+    "photo": "/images/ankara11.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "11:30",
+    "closeTime": "23:30"
+  },
+  {
+    "id": 12,
+    "name": "Ankara Mekan 12",
+    "photo": "/images/ankara12.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "09:00",
+    "closeTime": "16:45"
+  },
+  {
+    "id": 13,
+    "name": "Ankara Mekan 13",
+    "photo": "/images/ankara13.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "08:45",
+    "closeTime": "19:30"
+  },
+  {
+    "id": 14,
+    "name": "Ankara Mekan 14",
+    "photo": "/images/ankara14.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "11:30",
+    "closeTime": "22:30"
+  },
+  {
+    "id": 15,
+    "name": "Ankara Mekan 15",
+    "photo": "/images/ankara15.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "09:15",
+    "closeTime": "19:45"
+  },
+  {
+    "id": 16,
+    "name": "Ankara Mekan 16",
+    "photo": "/images/ankara16.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "08:30",
+    "closeTime": "16:45"
+  },
+  {
+    "id": 17,
+    "name": "Ankara Mekan 17",
+    "photo": "/images/ankara17.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "08:45",
+    "closeTime": "17:45"
+  },
+  {
+    "id": 18,
+    "name": "Ankara Mekan 18",
+    "photo": "/images/ankara18.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "11:45",
+    "closeTime": "21:30"
+  },
+  {
+    "id": 19,
+    "name": "Ankara Mekan 19",
+    "photo": "/images/ankara19.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "11:45",
+    "closeTime": "18:30"
+  },
+  {
+    "id": 20,
+    "name": "Ankara Mekan 20",
+    "photo": "/images/ankara20.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "08:45",
+    "closeTime": "20:30"
+  },
+  {
+    "id": 21,
+    "name": "Ankara Mekan 21",
+    "photo": "/images/ankara21.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "08:15",
+    "closeTime": "19:45"
+  },
+  {
+    "id": 22,
+    "name": "Ankara Mekan 22",
+    "photo": "/images/ankara22.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "08:15",
+    "closeTime": "16:30"
+  },
+  {
+    "id": 23,
+    "name": "Ankara Mekan 23",
+    "photo": "/images/ankara23.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "10:15",
+    "closeTime": "17:15"
+  },
+  {
+    "id": 24,
+    "name": "Ankara Mekan 24",
+    "photo": "/images/ankara24.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "11:45",
+    "closeTime": "23:15"
+  },
+  {
+    "id": 25,
+    "name": "Ankara Mekan 25",
+    "photo": "/images/ankara25.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "08:15",
+    "closeTime": "19:45"
+  },
+  {
+    "id": 26,
+    "name": "Ankara Mekan 26",
+    "photo": "/images/ankara26.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "11:00",
+    "closeTime": "21:45"
+  },
+  {
+    "id": 27,
+    "name": "Ankara Mekan 27",
+    "photo": "/images/ankara27.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "10:45",
+    "closeTime": "18:00"
+  },
+  {
+    "id": 28,
+    "name": "Ankara Mekan 28",
+    "photo": "/images/ankara28.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "10:30",
+    "closeTime": "20:15"
+  },
+  {
+    "id": 29,
+    "name": "Ankara Mekan 29",
+    "photo": "/images/ankara29.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "09:45",
+    "closeTime": "19:00"
+  },
+  {
+    "id": 30,
+    "name": "Ankara Mekan 30",
+    "photo": "/images/ankara30.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "10:15",
+    "closeTime": "18:30"
+  },
+  {
+    "id": 31,
+    "name": "Ankara Mekan 31",
+    "photo": "/images/ankara31.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "08:15",
+    "closeTime": "17:30"
+  },
+  {
+    "id": 32,
+    "name": "Ankara Mekan 32",
+    "photo": "/images/ankara32.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "09:30",
+    "closeTime": "21:15"
+  },
+  {
+    "id": 33,
+    "name": "Ankara Mekan 33",
+    "photo": "/images/ankara33.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "11:00",
+    "closeTime": "21:15"
+  },
+  {
+    "id": 34,
+    "name": "Ankara Mekan 34",
+    "photo": "/images/ankara34.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "09:30",
+    "closeTime": "21:15"
+  },
+  {
+    "id": 35,
+    "name": "Ankara Mekan 35",
+    "photo": "/images/ankara35.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "08:30",
+    "closeTime": "20:00"
+  },
+  {
+    "id": 36,
+    "name": "Ankara Mekan 36",
+    "photo": "/images/ankara36.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "09:00",
+    "closeTime": "18:30"
+  },
+  {
+    "id": 37,
+    "name": "Ankara Mekan 37",
+    "photo": "/images/ankara37.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "10:30",
+    "closeTime": "22:45"
+  },
+  {
+    "id": 38,
+    "name": "Ankara Mekan 38",
+    "photo": "/images/ankara38.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "09:30",
+    "closeTime": "15:00"
+  },
+  {
+    "id": 39,
+    "name": "Ankara Mekan 39",
+    "photo": "/images/ankara39.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "10:30",
+    "closeTime": "17:00"
+  },
+  {
+    "id": 40,
+    "name": "Ankara Mekan 40",
+    "photo": "/images/ankara40.jpg",
+    "rating": 4.5,
+    "city": "Ankara",
+    "openTime": "08:45",
+    "closeTime": "14:00"
+  }
+]
