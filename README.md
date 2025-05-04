@@ -18,7 +18,7 @@ This is the **frontend repository** of the _Gezinti Project_, a personalized loc
 
 ## Folder Structure
 
-````plaintext
+```plaintext
 /gezinti-frontend/src/app
 ├── assets/ # Icons and visuals for every page
 ├── components/
@@ -56,6 +56,7 @@ This is the **frontend repository** of the _Gezinti Project_, a personalized loc
 │ ├── Faqui.js # FAQ section component
 │ └── page.js # Main page for FAQ
 └── utils/ # Utility functions (if any)
+```
 
 ## Data Flow
 
@@ -80,7 +81,7 @@ To run locally:
 ```bash
 npm install
 npm run dev
-````
+```
 
 To build for production:
 
